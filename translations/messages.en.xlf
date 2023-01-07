@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="en">
+  <file id="messages.en">
+    <unit id="3NHVIj9" name="Name">
+      <segment>
+        <source>Name</source>
+        <target>Name</target>
+      </segment>
+    </unit>
+    <unit id="rMKsKxN" name="Your name...">
+      <segment>
+        <source>Your name...</source>
+        <target>Your name...</target>
+      </segment>
+    </unit>
+    <unit id="8kiP1O9" name="Email address">
+      <segment>
+        <source>Email address</source>
+        <target>Email address</target>
+      </segment>
+    </unit>
+    <unit id="TMY52.l" name="Your email...">
+      <segment>
+        <source>Your email...</source>
+        <target>Your email...</target>
+      </segment>
+    </unit>
+    <unit id="egV72Za" name="Your message">
+      <segment>
+        <source>Your message</source>
+        <target>Your message</target>
+      </segment>
+    </unit>
+    <unit id="gvYWw0o" name="Your message...">
+      <segment>
+        <source>Your message...</source>
+        <target>Your message...</target>
+      </segment>
+    </unit>
+    <unit id="2Iib8ls" name="Do you want us to contact you back?">
+      <segment>
+        <source>Do you want us to contact you back?</source>
+        <target>Do you want us to contact you back?</target>
+      </segment>
+    </unit>
+    <unit id="haOas0X" name="Yes">
+      <segment>
+        <source>Yes</source>
+        <target>Yes</target>
+      </segment>
+    </unit>
+    <unit id="HqRCoTS" name="No">
+      <segment>
+        <source>No</source>
+        <target>No</target>
+      </segment>
+    </unit>
+    <unit id="_.3xzA_" name="Submit my message »">
+      <segment>
+        <source>Submit my message »</source>
+        <target>Submit my message »</target>
+      </segment>
+    </unit>
+    <unit id="SPpOpRU" name="State optional telephone">
+      <segment>
+        <source>State optional telephone</source>
+        <target>State optional telephone</target>
+      </segment>
+    </unit>
+    <unit id="SXECSqW" name="your email">
+      <segment>
+        <source>your email</source>
+        <target>your email</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>
